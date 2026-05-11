@@ -64,3 +64,7 @@ while True:
         
     else:
         print('Invalid operator was used: ')
+    choose=input('Exit (y/n)')
+
+    if choose== 'y':
+        break
